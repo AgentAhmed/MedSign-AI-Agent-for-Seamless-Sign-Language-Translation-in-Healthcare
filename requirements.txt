@@ -1,0 +1,11 @@
+streamlit
+opencv-python
+pyttsx3
+transformers
+torch
+Pillow
+requests
+llama-index-llms-upstage
+tokenizers
+mediapipe
+
