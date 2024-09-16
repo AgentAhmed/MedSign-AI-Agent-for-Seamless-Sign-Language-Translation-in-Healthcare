@@ -39,7 +39,7 @@ def get_llama_index_response(api_key, user_input):
     return response
 
 # Example usage
-api_key = "up_VcBniTeOjMk76acpRAqHUMyrvh9tK"  
+api_key = "api-key"  
 user_input = "Patient has a severe headache."
 
 # Get response from Upstage API

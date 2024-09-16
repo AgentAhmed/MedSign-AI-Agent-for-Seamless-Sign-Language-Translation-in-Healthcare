@@ -9,7 +9,7 @@ from PIL import Image
 # Initialize components
 sign_recognizer = AdvancedSignRecognizer()
 translator = ModelTranslator()
-upstage_api_key = "up_VcBniTeOjMk76acpRAqHUMyrvh9tK"  # Replace with your Upstage API key
+upstage_api_key = "api-key"  # Replace with your Upstage API key
 medical_contextualizer = MedicalContextualizer(api_key=upstage_api_key)
 
 st.title("Universal AI Sign Language Translator with Offline TTS")
